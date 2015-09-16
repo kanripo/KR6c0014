@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.562991
+#+DATE: 2015-08-30 19:44:07.886547
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6c0014_T_005-0604a> ¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第五¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -212,7 +211,7 @@
 一切諸有情界，普令安住真如實際。』憍尸迦！¶
 是善男子、善女人得福甚多。何以故？所有斯¶
 陀含果，從是般若波羅蜜多所出生故。憍尸¶
-迦！如前所說，若人以滿閻浮提所有眾，普令¶
+迦！如前所說，若人以滿閻浮提所有眾生，普令¶
 安住斯陀含果，所作福行，且置是數。假使若¶
 滿四大洲、若滿小千世界、若滿中千世界、若¶
 滿三千大千世界所有眾生，普令安住斯陀¶
