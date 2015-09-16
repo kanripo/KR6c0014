@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.977896
+#+DATE: 2015-08-30 19:44:10.553465
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0014_T_022-0662a> 
 #+PROPERTY: JUAN 22
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第二十二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
 
-27堅固義品
-:PROPERTIES:
-:head: 堅固義品第二十七
-:END:
-¶
+堅固義品第二十七¶
 
 爾時，尊者舍利子謂尊者須菩提言：「若菩薩¶
 摩訶薩行此甚深般若波羅蜜多者，是行堅¶
@@ -226,11 +221,7 @@
 中無上、無等無等等者，當學菩薩摩訶薩行¶
 是般若波羅蜜多。」¶
 
-28散華緣品
-:PROPERTIES:
-:head: 散華緣品第二十八之一
-:END:
-¶
+散華緣品第二十八之一¶
 
 爾時，復有三十三天諸天子眾，各各持以¶
 曼陀羅華、摩訶曼陀羅華，來詣佛所而散¶

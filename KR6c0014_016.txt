@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.812107
+#+DATE: 2015-08-30 19:44:10.398978
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6c0014_T_016-0641a> ¶¶
 #+PROPERTY: JUAN 16
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第十六¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
 
-17不退轉菩薩相品
-:PROPERTIES:
-:head: 不退轉菩薩相品第十七
-:END:
-¶
+不退轉菩薩相品第十七¶
 
 爾時，尊者須菩提白佛言：「世尊！不退轉菩薩¶
 摩訶薩當有何相？我等云何而能識知是不¶
