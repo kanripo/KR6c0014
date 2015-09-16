@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
+#+DATE: 2015-08-30 19:44:03.475012
+#+PROPERTY: JUAN 0
