@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.515068
+#+DATE: 2015-08-30 19:44:06.752273
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6c0014_T_003-0595b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第三¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -340,7 +339,7 @@
 羅蜜多法門，受持讀誦記念思惟，如說修行。」¶
 
 是時，世尊即告帝釋天主言：「憍尸迦！如諸天¶
-言，汝當於此般若波羅蜜多法門，受持讀誦¶
+言，汝當於此般若波羅蜜多法聞，受持讀誦¶
 記念思惟，如說修行。何以故？憍尸迦！若阿修¶
 羅與彼三十三天子眾共相鬪戰，是時汝當¶
 思念於此般若波羅蜜多法門，彼阿修羅即¶

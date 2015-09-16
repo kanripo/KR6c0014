@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.612763
+#+DATE: 2015-08-30 19:44:06.858196
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6c0014_T_007-0611b> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第七¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -223,11 +222,7 @@
 於六波羅蜜多法門如是修學、如是隨喜。以¶
 此隨喜善根，如實迴向阿耨多羅三藐三菩提。」¶
 
-7地獄緣品
-:PROPERTIES:
-:head: 地獄緣品第七之一
-:END:
-¶
+地獄緣品第七之一一¶
 
 爾時，尊者舍利子白佛言：「世尊！般若波羅蜜¶
 多出生一切智智，一切智性即般若波羅蜜¶
