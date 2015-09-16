@@ -1,32 +1,27 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.588835
+#+DATE: 2015-08-30 19:44:04.667428
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6c0014_T_006-0608a> ¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第六¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
 
-6隨喜迴向品
-:PROPERTIES:
-:head: 隨喜迴向品第六之一
-:END:
-¶
+隨喜迴向品第六¶
 
 爾時，慈氏菩薩摩訶薩告尊者須菩提言：「若¶
 菩薩摩訶薩，於此甚深般若波羅蜜多法門，¶
-隨喜迴向所獲功德，比餘眾生布施、持戒、修¶
+隨喜迴向所獲功德，此餘眾生布施、持戒、修¶
 定功德，最上最極最勝最妙，廣大無量無等¶
 無等等。是故於此甚深正法，應當隨喜如理¶
 迴向。」¶
