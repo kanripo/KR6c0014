@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:03.050693
+#+DATE: 2015-08-30 19:44:09.473016
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0014_T_025-0672c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第二十五¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -114,11 +113,7 @@
 至何所？唯願大士示教於我，令我常得見¶
 佛世尊。』¶
 
-31法上菩薩品
-:PROPERTIES:
-:head: 法上菩薩品第三十一
-:END:
-¶
+法上菩薩品第三十一¶
 
 「爾時，法上菩薩摩訶薩謂常啼菩薩摩訶薩¶
 言：『善男子！如來者，無所從來亦無所去。何以¶
@@ -375,11 +370,7 @@
 等功德利益。是故今我法中菩薩摩訶薩諸¶
 求般若波羅蜜多者，亦應如是求。」¶
 
-32囑累品
-:PROPERTIES:
-:head: 囑累品第三十二
-:END:
-¶
+囑累品第三十二¶
 
 爾時，佛告尊者阿難言：「汝今當知，般若波羅¶
 蜜多者是諸佛母，出生諸佛一切智智。阿難！¶

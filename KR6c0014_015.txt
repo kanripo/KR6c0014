@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.784744
+#+DATE: 2015-08-30 19:44:09.191899
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0014_T_015-0637a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
-
- 《佛說佛母出生三法藏般¶
+《佛說佛母出生三法藏般¶
 若波羅蜜多經》卷第十五¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -125,11 +124,7 @@
 世間行有著，佛說法無著，是故一切法離諸¶
 有著。」¶
 
-16真如品
-:PROPERTIES:
-:head: 真如品第十六
-:END:
-¶
+真如品第十六¶
 
 爾時，尊者須菩提白佛言：「世尊！佛所說法，隨¶
 順一切法離諸障礙，而一切法了不可得，猶¶
