@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.867583
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:23
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0014_T_018-0647b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第十八¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -178,11 +177,7 @@
 菩提行，是故我今為授阿耨多羅三藐三菩¶
 提記。」¶
 
-20善巧方便品
-:PROPERTIES:
-:head: 善巧方便品第二十之一
-:END:
-¶
+* 善巧方便品第二十之一¶
 
 爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶¶
 薩欲行般若波羅蜜多，應云何學空？云何入¶

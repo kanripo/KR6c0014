@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.762001
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:23
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0014_T_014-0633c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第十四¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
 
-14譬喻品
-:PROPERTIES:
-:head: 譬喻品第十四
-:END:
-¶
+* 譬喻品第十四¶
 
 爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶¶
 薩聞此甚深般若波羅蜜多正法，不驚不怖、¶
@@ -190,11 +185,7 @@
 緣覺之地，即能成就一切智果，皆悉以是功¶
 德迴向阿耨多羅三藐三菩提。」¶
 
-15賢聖品
-:PROPERTIES:
-:head: 賢聖品第十五之一
-:END:
-¶
+* 賢聖品第十五之一¶
 
 爾時，尊者須菩提白佛言：「世尊！彼初學菩薩¶
 於此甚深般若波羅蜜多當云何學？」¶

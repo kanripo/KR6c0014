@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:02.720459
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:23
 #+TITLE: 佛說佛母出生三法藏般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0228
 #+PROPERTY: ID KR6c0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 228
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0014_T_012-0627c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
-
- 《佛說佛母出生三法藏般若¶
+《佛說佛母出生三法藏般若¶
 波羅蜜多經》卷第十二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -75,11 +74,7 @@
 亦復長時勤作方便，於此般若波羅蜜多法¶
 門，以威神力加持護念。」¶
 
-12顯示世間品
-:PROPERTIES:
-:head: 顯示世間品第十二之一
-:END:
-¶
+* 顯示世間品第十二之一¶
 
 佛告須菩提：「如世母人生育諸子，若一若十¶
 若百若千。忽於一時其母有疾，諸子各各勤¶
